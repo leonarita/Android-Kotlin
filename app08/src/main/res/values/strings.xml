@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+
+    <!-- Break paragraphs without extra spacing, by putting \n at the beginning of next line.-->
+    <string name="bio">Hi, my name is Léo.
+\n\nI love programming.
+\n\nI can love programming, but I don\'t do this every day.
+\nFun fact is that devs always use stackoverflow.
+\n\nI try using Linux every weekday because this is not easy. Isn\'t more secure, is different. The different is not bad. Just different.
+\nAnd sometimes I back to where I was when I started. The C Language.
+\n\nOnce, when I was studying Data Structures, in my enthusiasm, I did a project in pairs alone.
+\n\nI\'ll be happy to teach you how to make your first code.
+\nYou should ask someone else about programming, though.\n\n</string>
+
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="name">Léo Narita</string>
+</resources>
